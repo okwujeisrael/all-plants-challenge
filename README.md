@@ -1,3 +1,11 @@
+# Applicant note
+ - [x] UI layout implemented according to wireframe
+ - [x] Loading screen implemented for users with slow connections
+ - [x] Product count implemented 
+ - [x] Unit test written for the Card component
+ - [x] I disabled some es-lint rules in the test files and 2 component files
+
+
 # 🥘 allplants React Challenge
 
 We hope you will only spend 2 hours on this task, but at most please spend 3 hours.
