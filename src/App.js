@@ -46,6 +46,7 @@ const App = () => {
                     handle={product.handle}
                     incrementCount={setCount}
                     count={count}
+                    key={product.id}
                   />
                 ))
               }

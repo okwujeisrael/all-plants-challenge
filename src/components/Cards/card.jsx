@@ -24,7 +24,7 @@ const Card = ({
   };
 
   return (
-    <SCard key={id}>
+    <SCard>
       <SImageWrapper>
         <SCardImage
           src={imageUrl}
